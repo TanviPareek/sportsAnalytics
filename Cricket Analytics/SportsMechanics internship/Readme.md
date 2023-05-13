@@ -1,0 +1,4 @@
+In my final semester of my undergrad in VIT, I completed a 5 months internship at [SportsMechanics](https://www.sportsmechanics.in/). SportsMechanics is a sports technology, performance and data analytics company which partners with sports organisations to enhance and manage performance effectively. I worked on 3 different projects:
+- Worked on automated consolidation and warehousing of match scorecards in the game of cricket using beautiful soup and pandas in Python and performed descriptive statistics for the match data using excel and numpy in Python. 
+- Identified patterns by employing frequent itemset mining and association rules on cricket data. Part of the analysis is available [here](https://github.com/TanviPareek/Association-rule-mining/tree/master)
+- Assisted in deploying ML model to production using Flask. This involved extensive feature engineeering and was a win/loss prediction model.
